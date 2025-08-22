@@ -89,7 +89,7 @@ header button:hover{
 }
 
 #showcase{
-    background: url('/images/handstones.avif') center /cover no-repeat;
+    background: url("https://images.unsplash.com/photo-1755371033904-21dd8a9d002b?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyMHx8fGVufDB8fHx8fA%3D%3D") center /cover no-repeat;
     min-height: 500px;
     margin-top: -30px;
 }
@@ -118,7 +118,7 @@ header button:hover{
     box-shadow: white;
     text-align: center;
     float: left;
-    transition: background 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
     margin-top: 1rem;
     border-radius: 5px;
     margin-right: 5px;
@@ -137,7 +137,7 @@ footer{
     margin: auto;
     text-align: center;
     margin-top: 2rem;
-    transition: background 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
     border-top-right-radius: 5px;
     border-top-left-radius: 5px;
 }
@@ -245,7 +245,7 @@ input{
     background-color: lightgreen;
     color: white;
     border: none;
-    transition: background 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
 }
 
 .submit:hover{
@@ -254,7 +254,7 @@ input{
 }
 
 .nalasooxidhiidh{
-    background-color: lightgreen;
+    background-color:lightgreen;
     width: 45%;
     float: right;
     text-align: center;
